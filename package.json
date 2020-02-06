@@ -1,0 +1,13 @@
+{
+    "name": "@fasuh/indeks",
+    "version": "1.0.0",
+    "description": "zaliczenie WSB",
+    "repository": "fasuh/indeks",
+    "main": "index.js",
+    "keywords": [
+    "WSB",
+    "npm",
+    "package",
+    "exam"
+    ]
+}
